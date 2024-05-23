@@ -1,3 +1,3 @@
-## React props
+## my React props project
 
 - 
