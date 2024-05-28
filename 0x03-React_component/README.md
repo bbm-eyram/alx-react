@@ -1,1 +1,1 @@
-# 0x03. React component
+# my 0x03. React component project
