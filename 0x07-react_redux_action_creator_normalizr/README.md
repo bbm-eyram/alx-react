@@ -1,1 +1,1 @@
-## React Redux action creator+normalizr
+## my React Redux action creator+normalizr project
