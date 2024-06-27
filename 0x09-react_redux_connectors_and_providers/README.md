@@ -1,1 +1,1 @@
-## React Redux Connectors and Providers
+## my React Redux Connectors and Providers project
